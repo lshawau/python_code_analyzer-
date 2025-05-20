@@ -4,8 +4,6 @@
 
 A powerful tool for analyzing Python codebases to assess complexity, development effort, and cost estimates.
 
-![Python Code Analyzer Screenshot](screenshot.png)
-
 ## Features
 
 - **Code Complexity Analysis**: Evaluates cyclomatic complexity, nesting depth, and other code quality metrics.
