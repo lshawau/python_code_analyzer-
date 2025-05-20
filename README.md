@@ -1,5 +1,15 @@
 # python_code_analyzer
+Application Interface
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14b5f74c-4b0e-4547-aaca-86570ebf9660" width="49%" alt="Python Code Analyzer Summary View">
+  <img src="https://github.com/user-attachments/assets/583412c4-f0b3-4015-8d0a-50ec9e78575c" width="49%" alt="Python Code Analyzer Details View">
+</p>
 
+Analysis Reports
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c1c04f7-985e-4e49-84b8-79ce8f194e83" width="49%" alt="Code Analysis Metrics Overview">
+  <img src="https://github.com/user-attachments/assets/f59b877d-b257-470b-b8ad-aa2ee3f7daa0" width="49%" alt="Code Analysis Charts">
+</p>
 # Python Code Analyzer
 
 A powerful tool for analyzing Python codebases to assess complexity, development effort, and cost estimates.
