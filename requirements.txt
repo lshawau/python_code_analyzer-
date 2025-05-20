@@ -1,0 +1,13 @@
+tkinter>=8.6
+pillow>=9.0.0
+# Standard library modules used:
+# - os
+# - ast
+# - sys
+# - json
+# - csv
+# - threading
+# - statistics
+# - collections
+# - webbrowser
+# - datetime
